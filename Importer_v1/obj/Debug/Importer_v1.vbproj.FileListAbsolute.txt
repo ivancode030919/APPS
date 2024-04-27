@@ -1,0 +1,1068 @@
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Importer_v1.exe.config
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Importer_v1.exe
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Importer_v1.pdb
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Importer_v1.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\EnvDTE.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\stdole.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Form1.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.form2.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Form3.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Form4.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Form6.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Resources.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Form5.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.GenerateResource.cache
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.exe.licenses
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\RdlCompile.cache
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\RdlCompile.compiled
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CoreCompileInputs.cache
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CopyComplete
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.exe
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.pdb
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.AssemblyReference.cache
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Form7.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.User.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.UserList.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Bank.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.banklist.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Type.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.TypeList.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Terms.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.TermsList.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Login.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Form8.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.addSupplier.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.supplierimport.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.releasing.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.releasingList.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Form9.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.ATC.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Voucher.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.Voucher1.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.detail.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.register.resources
+C:\Users\HSDP_SYS_DEV\source\repos\Importer_v1\Importer_v1\obj\Debug\Importer_v1.PVDetail.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Form1.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.form2.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Form3.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Form4.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Form6.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Form7.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Form9.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Login.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Resources.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.detail.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.PVDetail.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.register.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher1.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Form5.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Bank.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.banklist.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.releasing.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.releasingList.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.addSupplier.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.ATC.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Form8.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.supplierimport.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Terms.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.TermsList.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.Type.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.TypeList.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.User.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.UserList.resources
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.GenerateResource.cache
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.exe.licenses
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\RdlCompile.cache
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\RdlCompile.compiled
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CoreCompileInputs.cache
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\APPS.exe.config
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\APPS.exe
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\APPS.pdb
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\APPS.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\EnvDTE.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\stdole.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\Microsoft.MSXML.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CopyComplete
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.exe
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.xml
+D:\DEV SYSTEM\WORK AREA\Importer_v1\Importer_v1\obj\Debug\APPS.pdb
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbprojResolveAssemblyReference.cache
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.APPS.exe.config
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Form1.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.form2.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Form3.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Form4.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Form9.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.listdetail.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Listofbills.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Login.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Resources.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.detail.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.PVDetail.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.register.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Form5.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Bank.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.releasing.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.ATC.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.supplierimport.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Terms.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Type.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.User.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.GenerateResource.Cache
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\APPS.exe.config
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\APPS.exe.config
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\APPS.exe.manifest
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\APPS.application
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\APPS.exe
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\APPS.pdb
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\APPS.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\EnvDTE.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\stdole.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.AssemblyReference.cache
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Form1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.form2.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Form3.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Form4.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Form6.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Form7.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Form9.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.listdetail.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Listofbills.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Login.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Resources.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.detail.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.PVDetail.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.register.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Form5.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Bank.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.banklist.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.releasing.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.releasingList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.addSupplier.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.ATC.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Form8.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.supplierimport.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Terms.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.TermsList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.Type.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.TypeList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.User.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.UserList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.GenerateResource.cache
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.exe.licenses
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\RdlCompile.cache
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\RdlCompile.compiled
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CoreCompileInputs.cache
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.exe.manifest
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.application
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CopyComplete
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.exe
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.xml
+C:\Users\HSDP_SYS_DEV\Desktop\Importer_v1\Importer_v1\obj\Debug\APPS.pdb
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.AssemblyReference.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Form1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.form2.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Form3.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Form4.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Form6.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Form7.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Form9.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.listdetail.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Listofbills.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Login.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Resources.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.detail.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.PVDetail.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.register.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Form5.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Bank.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.banklist.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.releasing.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.releasingList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.addSupplier.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.ATC.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Form8.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.supplierimport.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Terms.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.TermsList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.Type.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.TypeList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.User.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.UserList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.GenerateResource.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.exe.licenses
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\RdlCompile.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\RdlCompile.compiled
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CoreCompileInputs.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.exe
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.pdb
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\APPS.exe.config
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\APPS.exe.manifest
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\APPS.application
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\APPS.exe
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\APPS.pdb
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\APPS.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\EnvDTE.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\stdole.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.exe.manifest
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\APPS.application
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CopyComplete
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.AssemblyReference.cache
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.exe
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.pdb
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.exe
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.xml
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.pdb
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\APPS.exe.manifest
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\APPS.application
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\APPS.exe
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\APPS.pdb
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\APPS.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\EnvDTE.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.Build.Framework.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\stdole.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\EnvDTE80.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\VSLangProj.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\VSLangProj80.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Newtonsoft.Json.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.MSXML.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\VSLangProj2.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\EnvDTE.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\EnvDTE80.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\VSLangProj.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\VSLangProj80.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\VSLangProj2.xml
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Form6.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Form7.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher1.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.banklist.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.releasingList.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.addSupplier.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.Form8.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.TermsList.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.TypeList.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.UserList.resources
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.exe.licenses
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.exe.manifest
+D:\APPS\Importer_v1\Importer_v1\obj\Debug\APPS.application
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\APPS.exe.config
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\APPS.exe.manifest
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\APPS.application
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\APPS.exe
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\APPS.pdb
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\APPS.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\EnvDTE.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\stdole.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.MSXML.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form1.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.form2.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form3.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form4.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form6.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form7.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form9.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.listdetail.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Listofbills.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Login.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Resources.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.detail.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.PVDetail.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.register.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher1.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form5.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Bank.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.banklist.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.releasing.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.releasingList.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.addSupplier.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.ATC.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form8.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.supplierimport.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Terms.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.TermsList.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.Type.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.TypeList.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.User.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.UserList.resources
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.GenerateResource.cache
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.exe.licenses
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\RdlCompile.cache
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\RdlCompile.compiled
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CoreCompileInputs.cache
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.exe.manifest
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\APPS.application
+\\172.16.7.7\apps\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CopyComplete
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\APPS.exe.config
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\APPS.exe.manifest
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\APPS.application
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\APPS.exe
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\APPS.pdb
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\APPS.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\EnvDTE.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\stdole.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.AssemblyReference.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.form2.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form3.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form4.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form6.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form7.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form9.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.listdetail.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Listofbills.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Login.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Resources.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.detail.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.PVDetail.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.register.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Voucher1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form5.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Bank.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.banklist.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.releasing.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.releasingList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.addSupplier.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.ATC.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Form8.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.supplierimport.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Terms.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.TermsList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.Type.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.TypeList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.User.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.UserList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.GenerateResource.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.exe.licenses
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\RdlCompile.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\RdlCompile.compiled
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CoreCompileInputs.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.exe.manifest
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.application
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\Importer_v1.vbproj.CopyComplete
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.exe
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\new apps\Importer_v1\Importer_v1\obj\Debug\APPS.pdb
